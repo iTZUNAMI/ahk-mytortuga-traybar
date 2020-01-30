@@ -1,0 +1,7 @@
+SETUP: Setup_myTRG.exe  estrae file myTRG
+FILE EXE: myTRG.exe
+
+update.exe killa processo esistente altrimenti non estrae
+
+Installer_myTRG.exe  estrae  setup_myTgr.exe update.exe e update.bat e restart.exe
+ed esegue alla fine update.bat che esegue in ordine update.exe e poi il setup solito che quindi evita problemi di processo in corso/sovrascrittura

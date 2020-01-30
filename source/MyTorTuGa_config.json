@@ -1,0 +1,214 @@
+{
+
+"tbmenu": 
+[		
+		{ "menu": "si" , "titolo": "Utility", "sep":"si" },
+		{ "menu": "no" , "titolo": "linea",   "sep":"vuoto" },
+		{ "menu": "no" , "titolo": "Consigliati", "sep":"si" },
+		{ "menu": "no" , "titolo": "linea",   "sep":"vuoto" },
+        { "menu": "no" , "titolo": "dom.com", "sep":"no", "url":"http://dom.com" },	
+		{ "menu": "no" , "titolo": "giochi flash", "sep":"no", "url":"http://dom2.info" },	
+		{ "menu": "no" , "titolo": "Ultimi Tools", "sep":"si" },
+		{ "menu": "no" , "titolo": "linea",   "sep":"vuoto" },
+        { "menu": "no" , "titolo": "dom3.pw", "sep":"no", "url":"http://dom3.pw" },	
+		{ "menu": "no" , "titolo": "linea",   "sep":"vuoto" },
+		{ "menu": "no" , "titolo": "ToRTuGA", "sep":"si" },
+		{ "menu": "no" , "titolo": "linea",   "sep":"vuoto" },
+		{ "menu": "si" , "titolo": "Sottotitoli", "sep":"si" },
+		{ "menu": "si" , "titolo": "Download" },
+		{ "menu": "si" , "titolo": "Streaming" },
+		{ "menu": "si" , "titolo": "ToRRENT" },
+		
+]
+,
+"Utility": 
+[
+	{  "smenu":"si" , "nome":"Web Proxy" , "sep":"no" },
+	{  "smenu":"si" , "nome":"Hosting Immagini" , "sep":"no" },
+	{  "smenu":"si" , "nome":"Email Temporanea" , "sep":"no" },
+	{  "smenu":"si" , "nome":"Messaggi Cryptati e Temporanei" , "sep":"no" },
+	{  "smenu":"si" , "nome":"Mio IP" , "sep":"no" },
+	{  "smenu":"si" , "nome":"Misc" , "sep":"no"},
+
+]
+,
+"Web Proxy": 
+[
+	{  "smenu":"no" , "nome":"jollyProxy" , "url":"http://www.jollyproxy.com" , "sep":"no"},
+	{  "smenu":"no" , "nome":"US Proxy" , "url":"http://www.uswebproxy.com/" , "sep":"no"},
+	{  "smenu":"no" , "nome":"UberProxy" , "url":"http://uberproxy.net/" , "sep":"no"},
+	{  "smenu":"no" , "nome":"Torrent Proxy" , "url":"http://torrentproxies.com/" , "sep":"no"},
+	
+]
+,
+"Hosting Immagini": 
+[
+	{  "smenu":"no" , "nome":"UpTiki" , "url":"http://uptiki.altervista.org" , "sep":"no"},
+	{  "smenu":"no" , "nome":"BayIMG" , "url":"http://bayimg.com/" , "sep":"no"},
+	{  "smenu":"no" , "nome":"ImageShack" , "url":"http://imageshack.us/" , "sep":"no"},
+
+
+
+]
+,
+"Email Temporanea": 
+[
+	{  "smenu":"no" , "nome":"AirMail" , "url":"http://it.getairmail.com" , "sep":"no"},
+	{  "smenu":"no" , "nome":"YopMail" , "url":"http://www.yopmail.com/it/" , "sep":"no"},
+
+]
+,
+"Messaggi Cryptati e Temporanei": 
+[
+	{  "smenu":"no" , "nome":"dom3.pw" , "url":"https://dom3.pw/" , "sep":"no"},
+]
+,
+"Mio IP": 
+[
+	{  "smenu":"no" , "nome":"MIO IP #1" , "url":"http://www.myip.it/" , "sep":"no"},
+	{  "smenu":"no" , "nome":"MIO IP #2" , "url":"http://www.mioip.it/" , "sep":"no"},
+
+
+
+]
+,
+"Misc": 
+[
+	{  "smenu":"no" , "nome":"Youtube to Mp3" , "url":"http://www.video2mp3.net/it/" , "sep":"no"},
+	{  "smenu":"no" , "nome":"Download Time Calc" , "url":"http://www.download-time.com/" , "sep":"no"},
+	{  "smenu":"no" , "nome":"JetBytes" , "url":"http://jetbytes.com/" , "sep":"no"},
+	{  "smenu":"no" , "nome":"PasteBin" , "url":"http://pastebin.com/" , "sep":"no"},
+
+
+]
+,
+"Sottotitoli": 
+[
+	{  "smenu":"no" , "nome":"ITASA" , "url":"http://www.italiansubs.net/" , "sep":"no"},
+	{  "smenu":"no" , "nome":"OpenSubtitles" , "url":"http://www.opensubtitles.org/it" , "sep":"no"},
+
+
+
+]
+,
+"ToRRENT": 
+[
+	{  "smenu":"si" , "nome":"Proxy" , "sep":"no" },
+	{  "smenu":"si" , "nome":"Client Torrent" , "sep":"no" },
+	{  "smenu":"no" , "nome":"linea" , "sep":"vuoto" },
+	{  "smenu":"no" , "nome":"ExtraTorrent" , "url":"http://extratorrent.cc/" , "sep":"no" },
+	{  "smenu":"no" , "nome":"MonoVa" , "url":"http://www.monova.org/" , "sep":"no" },
+	{  "smenu":"no" , "nome":"NewTorrets" , "url":"http://www.newtorrents.info/" , "sep":"no" },
+	{  "smenu":"no" , "nome":"Fenopy" , "url":"http://fenopy.unlocktorrent.com/" , "sep":"no" },
+	{  "smenu":"no" , "nome":"limeTorrents" , "url":"http://www.limetorrents.com/" , "sep":"no" },
+	{  "smenu":"no" , "nome":"linea" , "sep":"vuoto" },
+	{  "smenu":"no" , "nome":"TOP", "sep":"si" },
+	{  "smenu":"no" , "nome":"linea" , "sep":"vuoto" },
+	{  "smenu":"no" , "nome":"ThePirateBay" , "url":"http://suprbay.net/" , "sep":"no" },
+	{  "smenu":"no" , "nome":"KickAssTorrents" , "url":"http://kickass.to/" , "sep":"no" },
+	{  "smenu":"no" , "nome":"linea" , "sep":"vuoto" },
+	{  "smenu":"no" , "nome":"ITA", "sep":"si" },
+	{  "smenu":"no" , "nome":"linea" , "sep":"vuoto" },
+	{  "smenu":"no" , "nome":"TNTVillage" , "url":"http://www.tntvillage.scambioetico.org/index.php" , "sep":"no"  },
+	{  "smenu":"no" , "nome":"altrodom" , "url":"http://altrodom.info/" , "sep":"no" },
+	{  "smenu":"no" , "nome":"linea" , "sep":"vuoto" },
+    {  "smenu":"no" , "nome":"altrodom2" , "url":"http://www.altrodom2.net/" , "sep":"no" },
+
+]
+,
+"Proxy": 
+[
+	{  "smenu":"no" , "nome":"TorrentProxy" , "url":"http://torrentproxies.com/" , "sep":"no"},
+	{  "smenu":"no" , "nome":"UnlockTorrent" , "url":"http://unlocktorrent.com/" , "sep":"no"},
+
+
+]
+,
+"Client Torrent": 
+[
+	{  "smenu":"no" , "nome":"uTorrent" , "url":"http://www.utorrent.com/" , "sep":"no"},
+	{  "smenu":"no" , "nome":"Vuze" , "url":"http://www.vuze.com/" , "sep":"no"},
+
+
+]
+,
+"Client Download": 
+[
+	{  "smenu":"no" , "nome":"miPony" , "url":"http://www.mipony.net/it/" , "sep":"no"},
+	{  "smenu":"no" , "nome":"Jdownloader" , "url":"http://jdownloader.org/" , "sep":"no"},
+	{  "smenu":"no" , "nome":"Orbitdownloader" , "url":"http://www.orbitdownloader.com/" , "sep":"no"},
+
+
+]
+,
+"eMule": 
+[
+	{  "smenu":"no" , "nome":"Client", "sep":"si" },
+	{  "smenu":"no" , "nome":"eMule MorphXT" , "url":"http://emulemorph.sourceforge.net/" , "sep":"no"},
+	{  "smenu":"no" , "nome":"linea" , "sep":"vuoto" },
+	{  "smenu":"no" , "nome":"DDUniverse" , "url":"http://dduniverse.net/ita/" , "sep":"no"},
+	{  "smenu":"no" , "nome":"Tutankemule" , "url":"http://www.tutankemule.net/" , "sep":"no"},
+
+]
+,
+"Account Premium": 
+[
+	{  "smenu":"no" , "nome":"RealDebrid" , "url":"http://real-debrid.com/?id=280524" , "sep":"no"}
+
+
+]
+,
+"Streaming": 
+[
+	{  "smenu":"si" , "nome":"Account Premium" , "sep":"no" },
+	{  "smenu":"no" , "nome":"AntiCensura DNS" , "url":"http://altrodom3.st/nowvideo-dns.php" , "sep":"no"  },
+	{  "smenu":"no" , "nome":"linea" , "sep":"vuoto" },
+	{  "smenu":"no" , "nome":"film-Stream" , "url":"http://film-stream.tv/" , "sep":"no"  },
+	{  "smenu":"no" , "nome":"FilmperTutti" , "url":"http://www.filmpertutti.eu/" , "sep":"no"  },
+	{  "smenu":"no" , "nome":"italia-film" , "url":"http://www.italia-film.org/" , "sep":"no"  },
+	{  "smenu":"no" , "nome":"CasaCinemaz" , "url":"http://www.casacinemaz.com/" , "sep":"no"  },
+	{  "smenu":"no" , "nome":"CineBlog01" , "url":"http://www.cineblog01.tv/" , "sep":"no"  },
+	{  "smenu":"no" , "nome":"PirateStreaming" , "url":"http://www.piratestreaming.co/" , "sep":"no" },
+    {  "smenu":"no" , "nome":"linea" , "sep":"vuoto" },
+	{  "smenu":"no" , "nome":"BEST", "sep":"si" },
+	{  "smenu":"no" , "nome":"linea" , "sep":"vuoto" },
+    {  "smenu":"no" , "nome":"altrodom3" , "url":"http://altrodom3.st/" , "sep":"no" },
+
+]
+,
+"Download": 
+[
+	{  "smenu":"si" , "nome":"Account Premium" , "sep":"no" },
+	{  "smenu":"si" , "nome":"Client Download" , "sep":"no"  },
+	{  "smenu":"no" , "nome":"linea" , "sep":"vuoto" },
+	{  "smenu":"si" , "nome":"eMule" ,  "sep":"no"  },
+	{  "smenu":"no" , "nome":"linea" , "sep":"vuoto" },
+	{  "smenu":"no" , "nome":"ENG", "sep":"si" },
+	{  "smenu":"no" , "nome":"linea" , "sep":"vuoto" },
+	{  "smenu":"no" , "nome":"RLSLOG" , "url":"http://www.rlslog.net/" , "sep":"no" },
+	{  "smenu":"no" , "nome":"TinyDL" , "url":"http://www.tinydl.com/" , "sep":"no"},
+	{  "smenu":"no" , "nome":"linea" , "sep":"vuoto" },
+	{  "smenu":"no" , "nome":"ITA", "sep":"si" },
+	{  "smenu":"no" , "nome":"linea" , "sep":"vuoto" },
+    {  "smenu":"no" , "nome":"Dasolo" , "url":"http://www.dasolo.info/" , "sep":"no" },
+	{  "smenu":"no" , "nome":"DownloadGeneration" , "url":"http://downloadgeneration.net/" , "sep":"no"},
+	{  "smenu":"no" , "nome":"Facelinks" , "url":"http://www.facelinks.me/" , "sep":"no" },
+	{  "smenu":"no" , "nome":"DDLMKV3d" , "url":"http://ddlmkv3d.com/" , "sep":"no" },
+	{  "smenu":"no" , "nome":"DDLNews" , "url":"http://www.ddlnews.com/" , "sep":"no"},
+	{  "smenu":"no" , "nome":"Film-MKV" , "url":"http://www.film-mkv.net/" , "sep":"no" },
+    {  "smenu":"no" , "nome":"linea" , "sep":"vuoto" },
+	{  "smenu":"no" , "nome":"MULTI FINDER", "sep":"si" },
+	{  "smenu":"no" , "nome":"linea" , "sep":"vuoto" },
+    {  "smenu":"no" , "nome":"altrodom4" , "url":"http://altrodom4.com/" , "sep":"no" },
+]
+,	
+"tools": 
+[
+	{  "nome":"a" , "url":"www.ciao.it" , "sep":"no"},
+	{  "nome":"b" , "url":"www.youtube.de" , "sep":"no"},
+    {  "nome":"c" , "sep":"vuoto" },
+	{  "nome":"EXTRA44" , "sep":"si" }
+]
+	
+		   
+}
